@@ -1,0 +1,12 @@
+{
+  "ID": "f3ecd2ff75a24f819858e52143a3afe1",
+  "ActionKeyword": "rd",
+  "Name": "Raindrop",
+  "Description": "Search bookmark in Raindrop.io",
+  "Author": "Liu233w",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/Liu233w/wox-raindrop",
+  "IcoPath": "Images\\pic.png",
+  "ExecuteFileName": "main.py"
+}
