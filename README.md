@@ -6,6 +6,7 @@ This plugin shows your bookmark on Raindrop.io.
 - Use `rd` followed by the query.
 
 ## Installation
+- Install dependency: `pip install requests`
 - Clone this project into `c:\Users\{Your Username}\AppData\Local\Wox\app-1.3.524\Plugins\Wox.Plugin.Raindrop\`
 - Generate a test token from raindrop.io
 - Set the environment variable `RAINDROP_TOKEN` with the token
